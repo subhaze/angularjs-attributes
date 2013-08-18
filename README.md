@@ -1,3 +1,10 @@
+********
+This repo is no longer maintained.
+It's now located at [angular-ui](https://github.com/angular-ui/AngularJS-sublime-package)
+********
+
+
+
 AngularJS Attributes Completion
 ===
 
